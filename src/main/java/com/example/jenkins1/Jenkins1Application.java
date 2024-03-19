@@ -1,6 +1,6 @@
 package com.example.jenkins1;
 
-import jakarta.annotation.PostConstruct;
+import javax.annotation.PostConstruct;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
